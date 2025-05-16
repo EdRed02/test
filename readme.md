@@ -1,1 +1,1 @@
-This is a test area that I'm using to learn Git without running the risk of damaging any actually important software.
+This is a test area that I'm using to learn Git without running the risk of damaging any actual software.
